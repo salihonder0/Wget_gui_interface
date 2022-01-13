@@ -8,21 +8,44 @@ You need to download projects. Project work on a Shell.
 
 
 ## HowCanIRun
+ Firstly, open terminal and go to directory for execute.
+ ![Deer2](Ekran Görüntüsü 2022-01-13 10:02:32.png)
  
- ![Deer2](Ekran%20Görüntüsü%20(138).png)
  
- Then you have 0 score start of game.
- ![Deer2](Ekran%20Görüntüsü%20(139).png)
+ Then you have to start with "bash filename".
+ ![Deer2](Ekran Görüntüsü 2022-01-13 10:03:18.png)
  
- When you catch the deer you get scores.
+ When you execute command you will see that screen.
+ ![Deer2](Ekran görüntüsü 2022-01-13 10-04-36.png)
  
- ![Deer2](Ekran%20Görüntüsü%20(140).png)
+At this point,you have to enter url that you want to download.
+ ![Deer2](Ekran görüntüsü 2022-01-13 10-04-49.png)
+ 
+Then, this picture will appear on screen to inform.
+ ![Deer2](Ekran görüntüsü 2022-01-13 10-04-54.png)
+ 
+ After that, you have to enter parameter that you want.
+ ![Deer2]( Ekran görüntüsü 2022-01-13 10-05-03.png)
+ 
+Then, this picture will appear on screen to inform again.
+ ![Deer2](Ekran görüntüsü 2022-01-13 10-05-05.png)
+ 
+You must Wait while the file downloads.
+ ![Deer2](Ekran görüntüsü 2022-01-13 10-05-05.png)
+ 
+ After finishing click "Tamam"
+ ![Deer2](Ekran görüntüsü 2022-01-13 10-06-05.png)
+ 
+ Congratulations, you downloaded the file with GUI.
+  ![Deer2](Ekran görüntüsü 2022-01-13 10-07-26.png)
+ 
+ 
+ 
 
 ## Built With
 
-*[JavaScript](https://www.w3schools.com/js/default.asp)<br/>
-*[Html](https://www.w3schools.com/html/default.asp)<br/>
-*[FileZilla](https://filezilla-project.org/)
+*[Zenity](https://help.gnome.org/users/zenity/stable/)<br/>
+
 
 ## Author
 
