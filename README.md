@@ -9,35 +9,35 @@ You need to download projects. Project work on a Shell.
 
 ## HowCanIRun
  Firstly, open terminal and go to directory for execute.
- ![Deer2](Ekran Görüntüsü 2022-01-13 10:02:32.png)
+ ![Deer2](Ekran1.png)
  
  
  Then you have to start with "bash filename".
- ![Deer2](Ekran Görüntüsü 2022-01-13 10:03:18.png)
+ ![Deer2](Ekran2.png)
  
  When you execute command you will see that screen.
- ![Deer2](Ekran görüntüsü 2022-01-13 10-04-36.png)
+ ![Deer2](Ekran3.png)
  
 At this point,you have to enter url that you want to download.
- ![Deer2](Ekran görüntüsü 2022-01-13 10-04-49.png)
+ ![Deer2](Ekran4.png)
  
 Then, this picture will appear on screen to inform.
- ![Deer2](Ekran görüntüsü 2022-01-13 10-04-54.png)
+ ![Deer2](Ekran5.png)
  
  After that, you have to enter parameter that you want.
- ![Deer2]( Ekran görüntüsü 2022-01-13 10-05-03.png)
+ ![Deer2](Ekran6.png)
  
 Then, this picture will appear on screen to inform again.
- ![Deer2](Ekran görüntüsü 2022-01-13 10-05-05.png)
+ ![Deer2](Ekran7.png)
  
 You must Wait while the file downloads.
- ![Deer2](Ekran görüntüsü 2022-01-13 10-05-05.png)
+ ![Deer2](Ekran8.png)
  
  After finishing click "Tamam"
- ![Deer2](Ekran görüntüsü 2022-01-13 10-06-05.png)
+ ![Deer2](Ekran9.png)
  
  Congratulations, you downloaded the file with GUI.
-  ![Deer2](Ekran görüntüsü 2022-01-13 10-07-26.png)
+  ![Deer2](Ekran10.png)
  
  
  
